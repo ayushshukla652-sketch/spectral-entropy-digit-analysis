@@ -6,8 +6,9 @@ This repository contains code and data used in the paper:
 
 ## Contents
 
-- `power.py` – script to compute Shannon and spectral entropy
-- `spectral_entropy_analysis.tex` – LaTeX manuscript
+- `master_script.py` – main script for computing Digit Convergence, Shannon and Spectral entropies
+- 'additional_plots.py ; entropy_anaysis.py ; power_plots.py' - attempt to solve this problem in different bases
+- `entropy_source.tex` – LaTeX manuscript
 - `plots_new/` – generated figures
 
 ## Reproducibility
